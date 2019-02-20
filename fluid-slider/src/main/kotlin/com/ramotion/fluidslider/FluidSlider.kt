@@ -33,13 +33,13 @@ class FluidSlider @JvmOverloads constructor(
         NORMAL(56),
 
         /**
-         * Small size - 40dp.
+         * Small size - 32dp.
          */
-        SMALL(40)
+        SMALL(32)
     }
 
     private companion object {
-        const val BAR_CORNER_RADIUS = 2
+        const val BAR_CORNER_RADIUS = 6
         const val BAR_VERTICAL_OFFSET = 1.5f
         const val BAR_INNER_HORIZONTAL_OFFSET = 0
 
