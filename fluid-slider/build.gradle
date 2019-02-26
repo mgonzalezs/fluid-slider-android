@@ -5,7 +5,7 @@ apply plugin: 'com.bmuschko.nexus'
 apply plugin: 'com.github.dcendents.android-maven'
 
 group = 'com.github.mgonzalezs'
-version = '0.3.1'
+version = '0.3.52'
 
 android {
     compileSdkVersion 28
